@@ -1,9 +1,12 @@
 # Crypto Corner
-https://github.com/glenhood
-https://mevaldovi.github.io/Crypto-Corner/
+[Github](https://github.com/glenhood)
+
+
+[Deployed app](https://mevaldovi.github.io/Crypto-Corner/)
 
 
  ![alt text](assets/images/1.png)
+ 
  ![alt text](assets/images/2.png)
 
 ## Purpose -
@@ -18,14 +21,18 @@ information on that crypto platform which he clicked on.
 While some aspects of making the site were very straightforward, there was a challenge in utuilizing the main api key, which later found to have maxed out  its usage. Getting a second api key easily fixed that issue, but there was also an obstacle in executing on the group's collab behind the scenes due to a git merge conflict. Fortunately, this too was fixed by completely deleting the entire local repo as well as that local repo's respective branch, then recreating that branch and re-cloning the reopository down to the local machine.
 
 # Technologies Used
-This project was made possible with Visual Studio Code, GitHub, HTML, CSS, Javascript, Bulma, and Server-Side APIs.
+HTML, CSS, Javascript, Bulma, and Server-Side APIs.
 
 ## Credits
 This project was made possible thanks to the following people
 Glen Hood - https://github.com/glenhood
+
 Carlos Perez - https://github.com/cperezba
+
 Marie Valdovinos - https://github.com/mevaldovi
+
 Evan Ebert - https://github.com/evan-ebert17
+
 GitHubGitHub
 glenhood - Overview
 glenhood has 8 repositories available. Follow their code on GitHub.
