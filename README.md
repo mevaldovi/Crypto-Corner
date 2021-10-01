@@ -1,6 +1,6 @@
 # Crypto Corner
 https://github.com/glenhood
-https://glenhood.github.io/Project-1/
+https://mevaldovi.github.io/Crypto-Corner/
 
 
  ![alt text](assets/images/1.png)
