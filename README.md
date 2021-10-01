@@ -25,6 +25,7 @@ HTML, CSS, Javascript, Bulma, and Server-Side APIs.
 
 ## Credits
 This project was made possible thanks to the following people
+
 Glen Hood - https://github.com/glenhood
 
 Carlos Perez - https://github.com/cperezba
@@ -33,12 +34,4 @@ Marie Valdovinos - https://github.com/mevaldovi
 
 Evan Ebert - https://github.com/evan-ebert17
 
-GitHubGitHub
-glenhood - Overview
-glenhood has 8 repositories available. Follow their code on GitHub.
-GitHubGitHub
-mevaldovi - Overview
-I am a highly creative thinker, software developer, & problem-solver with a passion for growth, business & innovation. - mevaldovi
-GitHubGitHub
-evan-ebert17 - Overview
-evan-ebert17 has 7 repositories available. Follow their code on GitHub.
+
