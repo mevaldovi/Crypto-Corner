@@ -1,8 +1,8 @@
 # Crypto Corner
-[Github](https://github.com/glenhood)
+Github repo : [https://github.com/glenhood](https://github.com/glenhood)
 
 
-[Deployed app](https://mevaldovi.github.io/Crypto-Corner/)
+Deployed app : [https://mevaldovi.github.io/Crypto-Corner](https://mevaldovi.github.io/Crypto-Corner)
 
 
  ![alt text](assets/images/1.png)
@@ -22,6 +22,11 @@ While some aspects of making the site were very straightforward, there was a cha
 
 # Technologies Used
 HTML, CSS, Javascript, Bulma, and Server-Side APIs.
+
+- No dependencies to install
+- Clone down this repo
+- Right click on index.html
+- Open in default browser
 
 ## Credits
 This project was made possible thanks to the following people
