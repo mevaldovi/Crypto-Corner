@@ -21,22 +21,35 @@ information on that crypto platform which he clicked on.
 While some aspects of making the site were very straightforward, there was a challenge in utuilizing the main api key, which later found to have maxed out  its usage. Getting a second api key easily fixed that issue, but there was also an obstacle in executing on the group's collab behind the scenes due to a git merge conflict. Fortunately, this too was fixed by completely deleting the entire local repo as well as that local repo's respective branch, then recreating that branch and re-cloning the reopository down to the local machine.
 
 # Technologies Used
-HTML, CSS, Javascript, Bulma, and Server-Side APIs.
+[<img alt="medium" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img alt="medium" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<img alt="medium" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
 
 - No dependencies to install
 - Clone down this repo
-- Right click on index.html
+- Right click on `index.html`
 - Open in default browser
 
 ## Credits
 This project was made possible thanks to the following people
 
-Glen Hood - https://github.com/glenhood
+[Glen Hood](https://github.com/glenhood)
 
-Carlos Perez - https://github.com/cperezba
+[Carlos Perez](https://github.com/cperezba)
 
-Marie Valdovinos - https://github.com/mevaldovi
+[Marie Valdovinos](https://github.com/mevaldovi)
 
-Evan Ebert - https://github.com/evan-ebert17
+[Evan Ebert](https://github.com/evan-ebert17)
+
+## Contact Me
+
+Github: [https://github.com/mevaldovi](https://github.com/mevaldovi)
+
+LinkedIn : [https://www.linkedin.com/in/marie-valdovinos-a616b21b1](https://www.linkedin.com/in/marie-valdovinos-a616b21b1)
+
+
+Shoot me an email:[mevaldovi@gmail.com](mailto:mevaldovi@gmail.com)
+
 
 
